@@ -2,6 +2,8 @@
 
 *Turning an existing bank or finance company AI-native*
 
+https://github.com/user-attachments/assets/9f0d8595-99dc-4088-b696-6a53b428fdc4
+
 ## No big bang
 
 A bank cannot close for a transformation. Loans are approved, payments collected and complaints answered every day while the change happens. So there is no big bang here, and no year of redesign before the first result. The same processes keep running while agents take them over, step by step. The old bank and the new one are the same bank, with no day in between.
